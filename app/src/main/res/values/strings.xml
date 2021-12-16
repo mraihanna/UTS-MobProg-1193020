@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UTS 1193020</string>
+    <string name="username">Username</string>
+    <string name="name">Full Name</string>
+    <string name="nambel">Nama Belakang</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+    <string name="telpon">No Telepon</string>
+    <string name="hobi">Hobi</string>
+    <string name="save">Simpan</string>
+    <string name="jenkel">Jenis Kelamin</string>
+    <string name="laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="dummy_username">mraihanna</string>
+    <string name="dummy_namdep">Muhammad Raihan</string>
+    <string name="dummy_nambel">Nur Azmii</string>
+    <string name="dummy_name">Muhammad Raihan Nur Azmii</string>
+    <string name="dummy_pass">123</string>
+    <string name="dummy_email">mraihanna.18@gmail.com</string>
+    <string name="dummy_alamat">Garut</string>
+    <string name="dummy_telpon">08941241251</string>
+    <string name="dummy_hobi">Membaca</string>
+    <string name="dummy_jenkel">Laki-laki</string>
+    <string name="change">Ubah</string>
+    <string name="todo">TODO</string>
+</resources>
